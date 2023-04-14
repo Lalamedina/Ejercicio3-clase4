@@ -1,0 +1,43 @@
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+.texto-gris{
+    color: grey;
+    font-style: italic;
+}
+
+.link-celeste{
+    color: lightblue;
+    font-style: italic;
+}
+
+.italica{
+    font-style: italic
+}
+
+.negrita{
+    font-style: italic;
+    font-weight: 900;
+}
+
+.italica-1{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.negrita{
+    font-weight: 900;
+}
+
+.ita{
+    font-style: italic;
+}
+
+a:link {
+    text-decoration: none;
+    }
+
+    .otratipo{
+        font-style: normal;
+    }
